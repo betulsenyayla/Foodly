@@ -3,7 +3,7 @@ Foodly: Bir Yemek Sipariş Uygulaması
 
 Anasayfa, detay ekranı ve sepet ekranlarının bulunduğu bir restoranın yemek sipariş uygulamasıdır. 
 
-Anasayfada API'den gelen yemekler listelenir.
+Anasayfada API'den gelen yemekler ve yemeklerin görselleri, adları ve fiyatları listelenir.
 
 Detay ekranında, anasayfada seçilen herhangi bir yemeğin görseli, adı ve fiyatı görüntülenir. Adet seçerek yemek sepete eklenebilir.
 
