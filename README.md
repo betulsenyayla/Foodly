@@ -7,7 +7,7 @@ Anasayfada API'den gelen yemeklerin görselleri, adları ve fiyatları listeleni
 
 Detay ekranında, anasayfada seçilen herhangi bir yemeğin görseli, adı ve fiyatı görüntülenir. Adet seçtikten sonra Sepete Ekle butonu ile yemek sepete eklenebilir.
 
-Sepet ekranında ise detay ekranında seçilen yemeğin görseli, fiyatı ve adet bilgisi görüntülenir. Toplam sepet tuttarı kullanıcıya gösterilir. Ardından ödeme Yapma butonu ile kullanıcı, ödemenin yapıldığına dair bir animasyon ve bilgi mesajı görüntüler.
+Sepet ekranında ise detay ekranında seçilen yemeğin görseli, fiyatı ve adet bilgisi görüntülenir. Toplam sepet tutarı kullanıcıya gösterilir. Ardından Ödemeyi Tamamla butonu ile kullanıcı, ödemenin yapıldığına dair bir animasyon ve bilgi mesajı görüntüler.
 
 Uygulamanın ekran görüntüleri aşağıdaki gibidir: 
 
