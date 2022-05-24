@@ -5,9 +5,9 @@ Anasayfa, detay ekranı ve sepet ekranlarının bulunduğu bir restoranın yemek
 
 Anasayfada API'den gelen yemeklerin görselleri, adları ve fiyatları listelenir.
 
-Detay ekranında, anasayfada seçilen herhangi bir yemeğin görseli, adı ve fiyatı görüntülenir. Adet seçerek yemek sepete eklenebilir.
+Detay ekranında, anasayfada seçilen herhangi bir yemeğin görseli, adı ve fiyatı görüntülenir. Adet seçtikten sonra Sepete Ekle butonu ile yemek sepete eklenebilir.
 
-Sepet erkanında ise detay ekranında seçilen yemeğin görseli, fiyatı ve adet bilgisi görüntülenir. Toplam sepet tuttarı kullanıcıya gösterilir. Ardından ödeme Yapma butonu ile kullanıcı, ödemenin yapıldığına dair bir animasyon ve bilgi mesajı görüntüler.
+Sepet ekranında ise detay ekranında seçilen yemeğin görseli, fiyatı ve adet bilgisi görüntülenir. Toplam sepet tuttarı kullanıcıya gösterilir. Ardından ödeme Yapma butonu ile kullanıcı, ödemenin yapıldığına dair bir animasyon ve bilgi mesajı görüntüler.
 
 Uygulamanın ekran görüntüleri aşağıdaki gibidir: 
 
