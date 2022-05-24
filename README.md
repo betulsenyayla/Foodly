@@ -1,5 +1,5 @@
 # Foodly
-Foodly: Bir Yemek Sipariş Uygulaması
+Foodly: Bir Yemek Siparişi Uygulaması
 
 Anasayfa, detay ekranı ve sepet ekranlarının bulunduğu bir restoranın yemek sipariş uygulamasıdır. 
 
